@@ -17,7 +17,7 @@ Spam messages are a common issue in digital communication. This project aims to 
 # Model Used
  Logistic Regression 
 # Result
-Achieved accuracy of 95.07%.
+Achieved 95.07% accuracy on test data using an 80-20 train-test split.
 # Future Improvements
 - Try deep learning models (LSTM)
 - Deploy as web app
